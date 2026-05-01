@@ -1,4 +1,4 @@
-#hero {
+.hero {
   font-size: 56px;
   font-weight: 700;
   font-style: normal;
@@ -7,9 +7,9 @@
   color: #ffffff;
   background-color: #2e2f42;
   line-height: 1.07;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
-#order-button {
+.order-button {
   font-size: 16px;
   font-weight: 500;
   font-style: normal;
@@ -18,10 +18,10 @@
   color: inherit;
   background-color: #4d5ae5;
   line-height: 1.5;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
-#order-button:hover,
-#order-button:focus {
+.order-button:hover,
+.order-button:focus {
   background-color: #404bbf;
 }

@@ -6,17 +6,19 @@ body {
 .logo-part {
   color: #4d5ae5;
 }
-h2 {
+/* H2 */
+.general-headings {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
-h3 {
+/* H3 */
+.headings {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 
 a {
