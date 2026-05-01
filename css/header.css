@@ -14,6 +14,15 @@ nav a {
   letter-spacing: 2%;
   color: #2e2f42;
 }
+nav a:hover,
+nav a:focus {
+  color: #404bbf;
+}
+nav a:active {
+  color: #404bbf;
+  text-decoration: underline;
+}
+
 address a {
   font-size: 16px;
   font-weight: 400;
@@ -21,4 +30,8 @@ address a {
   letter-spacing: 2%;
   color: #434455;
   font-style: normal;
+}
+address a:hover,
+address a:focus {
+  color: #404bbf;
 }

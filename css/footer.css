@@ -1,0 +1,19 @@
+#footer {
+  background-color: #2e2f42;
+}
+#footer a {
+  font-family: "Raleway", serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: 3%;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+#footer p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
+  color: #f4f4fd;
+}
